@@ -1,6 +1,6 @@
-package juliancambraia.springframework.joke.controller;
+package juliancambraia.springframework.joke.jokeapp.controller;
 
-import juliancambraia.springframework.joke.services.JokeService;
+import juliancambraia.springframework.joke.jokeapp.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
